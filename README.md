@@ -15,4 +15,4 @@ This project generates PDF report cards for students based on their scores in mu
 - Python 3.10 or higher
 - Required Python libraries: `pandas`, `reportlab`, `openpyxl`
 
-## Project Structure
+
